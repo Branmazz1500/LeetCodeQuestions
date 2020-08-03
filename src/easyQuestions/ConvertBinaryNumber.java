@@ -22,7 +22,7 @@ public class ConvertBinaryNumber {
 	  }
 	 
 	 public static void main(String[] args) {
-		 ListNode test = 
+		
 	 }
 
 }
