@@ -19,7 +19,7 @@ public class numberOfUniques {
 			}
 		}
 		
-		Collection<Integer> hi = numOfOccurences.values();
+		HashSet hi = new HashSet<>(numOfOccurences.values());
 	 return numOfOccurences.size() == hi.size();
 	}
 	
